@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "nexidiaprime": {
+      "commandName": "Project",
+      "commandLineArgs": "numbers.txt"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\saxto\Source\Repos\nexidiaprime\nexidiaprime\bin\Debug\netcoreapp2.0\nexidiaprime.deps.json
+C:\Users\saxto\Source\Repos\nexidiaprime\nexidiaprime\bin\Debug\netcoreapp2.0\nexidiaprime.runtimeconfig.json
+C:\Users\saxto\Source\Repos\nexidiaprime\nexidiaprime\bin\Debug\netcoreapp2.0\nexidiaprime.runtimeconfig.dev.json
+C:\Users\saxto\Source\Repos\nexidiaprime\nexidiaprime\bin\Debug\netcoreapp2.0\nexidiaprime.dll
+C:\Users\saxto\Source\Repos\nexidiaprime\nexidiaprime\bin\Debug\netcoreapp2.0\nexidiaprime.pdb
+C:\Users\saxto\Source\Repos\nexidiaprime\nexidiaprime\obj\Debug\netcoreapp2.0\nexidiaprime.csproj.CoreCompileInputs.cache
+C:\Users\saxto\Source\Repos\nexidiaprime\nexidiaprime\obj\Debug\netcoreapp2.0\nexidiaprime.AssemblyInfoInputs.cache
+C:\Users\saxto\Source\Repos\nexidiaprime\nexidiaprime\obj\Debug\netcoreapp2.0\nexidiaprime.AssemblyInfo.cs
+C:\Users\saxto\Source\Repos\nexidiaprime\nexidiaprime\obj\Debug\netcoreapp2.0\nexidiaprime.dll
+C:\Users\saxto\Source\Repos\nexidiaprime\nexidiaprime\obj\Debug\netcoreapp2.0\nexidiaprime.pdb
+C:\Users\saxto\Source\Repos\nexidiaprime\nexidiaprime\obj\Debug\netcoreapp2.0\nexidiaprime.csprojResolveAssemblyReference.cache
