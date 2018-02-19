@@ -1,4 +1,5 @@
 using NUnit.Framework;
+using System.Collections.Generic;
 
 namespace nexidiaprime.Tests
 {
@@ -25,6 +26,13 @@ namespace nexidiaprime.Tests
             {
                 Assert.IsFalse(Prime.IsPrime(numbers[i]));
             }
+        }
+
+        [Test]
+        public void seventytwofactorsintothislist()
+        {
+            List<long> rightlist = new List<long>(){ 2, 2, 2, 3, 3 };
+            Assert.AreEqual(rightlist, Prime.Findprimes(72));
         }
     }
 }
