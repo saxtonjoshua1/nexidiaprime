@@ -34,6 +34,7 @@ namespace nexidiaprime
             if (n > 1)
                 primelist.Add(n);
 
+            //negative numbers are assumed to be not prime
             if (n < 0)
                 primelist.Add(0);
 
